@@ -1,5 +1,7 @@
 name: Docker
 
+on:
+  workflow_dispatch:
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"

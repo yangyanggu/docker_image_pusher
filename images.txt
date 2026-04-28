@@ -1,4 +1,5 @@
-ghcr.io/freeok/sonovel:latest
+cym1102/nginxwebui:latest
+#ghcr.io/freeok/sonovel:latest
 #ghcr.io/lunatechlab/moontv:latest
 #nginx
 #支持私库
